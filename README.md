@@ -28,6 +28,14 @@
       <a href="https://dominik-chyziak.pl/">Live Demo</a> &nbsp;|&nbsp; 
       <a href="https://github.com/Lexert19/Prompter">GitHub</a>
     </td>
+     <td align="center" width="200">
+      <b>Clicker3</b>
+      <br/>
+      <sub>JavaFX • Automation • Macros • Hotkeys</sub>
+      <br/><br/>
+      <a href="https://github.com/Lexert19/Clicker3">GitHub</a> &nbsp;|&nbsp;
+      <a href="https://github.com/Lexert19/Clicker3/releases">Release</a>
+    </td>
   </tr>
 </table>
 
