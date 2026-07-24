@@ -15,3 +15,19 @@
     </td>
   </tr>
 </table>
+
+## Projects
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <b>Prompter</b>
+      <br/>
+      <sub>Spring Boot • Java • Vanilla JS</sub>
+      <br/><br/>
+      <a href="https://dominik-chyziak.pl/">Live Demo</a> &nbsp;|&nbsp; 
+      <a href="https://github.com/Lexert19/Prompter">GitHub</a>
+    </td>
+  </tr>
+</table>
+
