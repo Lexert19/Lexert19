@@ -9,8 +9,12 @@
       <br/>
       <b>Apache IoTDB</b>
       <br/>
+      <a href="https://github.com/apache/iotdb/pulls/Lexert19">
       <img src="https://img.shields.io/badge/Merged-1-blueviolet?style=flat-square" />
+         </a>
+        <a href="https://github.com/apache/iotdb/pulls/Lexert19">
       <img src="https://img.shields.io/badge/Open-2-green?style=flat-square" />
+           </a>
       <br/>
     </td>
   </tr>
