@@ -1,21 +1,15 @@
 ## Open Source Contributions
-
 <table>
   <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/apache/iotdb/pulls/Lexert19">
+    <td align="center" width="200" style="padding:0;">
+      <a href="https://github.com/apache/iotdb/pulls/Lexert19" style="display:block; padding:16px; text-decoration:none; color:inherit; text-align:center;">
         <img src="https://iotdb.apache.org/logo.png" width="120" alt="Apache IoTDB" />
+        <br/>
+        <b>Apache IoTDB</b>
+        <br/>
+        <img src="https://img.shields.io/badge/Merged-1-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Open-2-green?style=flat-square" />
       </a>
-      <br/>
-      <b>Apache IoTDB</b>
-      <br/>
-      <a href="https://github.com/apache/iotdb/pulls/Lexert19">
-      <img src="https://img.shields.io/badge/Merged-1-blueviolet?style=flat-square" />
-         </a>
-        <a href="https://github.com/apache/iotdb/pulls/Lexert19">
-      <img src="https://img.shields.io/badge/Open-2-green?style=flat-square" />
-           </a>
-      <br/>
     </td>
   </tr>
 </table>
